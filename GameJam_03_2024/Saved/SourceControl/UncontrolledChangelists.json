@@ -1,0 +1,12 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"D:/Projekte/GameJam/Game Jam 03-2024/GameJam03-2024/GameJam_03_2024/Content/StarterContent/Props/MaterialSphere.uasset"
+			]
+		}
+	]
+}
