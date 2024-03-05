@@ -1730,3 +1730,316 @@ LogConfig: Set CVar [[r.Shadow.DetectVertexShaderLayerAtRuntime:1]]
 [2024.03.05-13.51.21:561][333]LogAssetRegistry: Warning: ScanPathsSynchronous: /Temp/__ExternalObjects__/Autosaves/Temp/Untitled_1_Auto1 is in the /Temp path, will not scan.
 [2024.03.05-13.51.21:562][333]LogFileHelpers: Editor autosave (incl. external actors) for '/Temp/Untitled_1' took 0.013
 [2024.03.05-13.51.21:562][333]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.013
+[2024.03.05-13.53.44:391][ 71]LogSlate: Window 'Save Level As' being destroyed
+[2024.03.05-13.53.53:886][407]LogSlate: Window 'Save Level As' being destroyed
+[2024.03.05-13.53.54:017][407]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BaseMap" FILE="../../../../../Projekte/GameJam/Game Jam 03-2024/GameJam03-2024/GameJam_03_2024/Content/BaseMap.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2024.03.05-13.53.54:033][407]LogUObjectHash: Compacting FUObjectHashTables data took   0.23ms
+[2024.03.05-13.53.54:041][407]LogSavePackage: Moving output files for package: /Game/BaseMap
+[2024.03.05-13.53.54:041][407]LogSavePackage: Moving '../../../../../Projekte/GameJam/Game Jam 03-2024/GameJam03-2024/GameJam_03_2024/Saved/BaseMap8F9B3A4148E85F5232CD9CAFEC66DE75.tmp' to '../../../../../Projekte/GameJam/Game Jam 03-2024/GameJam03-2024/GameJam_03_2024/Content/BaseMap.umap'
+[2024.03.05-13.53.54:055][407]Message dialog closed, result: Ok, title: Unable to Check Out From Revision Control!, text: The following assets could not be successfully checked out from revision control:
+/Game/BaseMap_HLOD0_Instancing
+/Game/__ExternalActors__/BaseMap/8/I9/S35KNNMBNEUES8QDE31UU8
+/Game/__ExternalObjects__/BaseMap/1/D2/NSVM17YMA6LSJE7WSJTYN7
+/Game/__ExternalObjects__/BaseMap/D/9L/DHW0KAI5ULL2KLXHA59L7J
+/Game/__ExternalObjects__/BaseMap/C/9W/D2I3QZR289MSPPVEKGC472
+/Game/__ExternalObjects__/BaseMap/8/T2/PNBW5CKEJPWQD475NORYHD
+/Game/__ExternalObjects__/BaseMap/2/OE/B7AGEZYBGQB7PVJSD0SMQV
+/Game/__ExternalObjects__/BaseMap/C/3X/WVEKM363PBR4L0PQ8JKR6X
+/Game/__ExternalActors__/BaseMap/7/7T/5NOX6SOFS58A0NZBUSRRI4
+/Game/__ExternalActors__/BaseMap/2/OU/VGUVH1DBZL7Z3HOYB0MCOS
+/Game/__ExternalActors__/BaseMap/D/7I/63H8XBWTJ78AN5UWTMPUAZ
+/Game/__ExternalActors__/BaseMap/6/YS/1Q71GL8MXWYLWCF8C0QKZ5
+/Game/__ExternalActors__/BaseMap/9/TR/3ADL6XRMLCXAYM28EW3O08
+/Game/__ExternalActors__/BaseMap/9/92/5AJPTEG0ITNNVYGEV07Y6O
+/Game/__ExternalActors__/BaseMap/2/PH/1A1KP1OS577IFFOF58UL6L
+/Game/__ExternalActors__/BaseMap/5/WZ/BHK4Q5QK61Y19TVQXNGUKG
+/Game/__ExternalActors__/BaseMap/C/CK/BW74RCBTAKRM8ILW2LCXNM
+/Game/__ExternalActors__/BaseMap/1/U5/4Y8K412OZN0J514YK7RJ4R
+/Game/__ExternalActors__/BaseMap/0/FZ/AQBM2K1BSLK52Y81J6KKET
+/Game/__ExternalActors__/BaseMap/5/WX/6K8CX1560KJQOJ4PQFRI0T
+/Game/__ExternalActors__/BaseMap/D/6U/XTPTGCQKMRFTP174PUR3Y6
+/Game/__ExternalActors__/BaseMap/C/X1/U5LOKJ5QH8T3Z1ZYY2MBNM
+/Game/__ExternalActors__/BaseMap/B/5Q/QNGYJS5DBOQ3288XBR7ZTL
+/Game/__ExternalActors__/BaseMap/7/FW/D2T8F181C13GD4FU6M8A2F
+/Game/__ExternalActors__/BaseMap/6/QY/QDSI478DY8EFI1IQ1TAC8D
+/Game/__ExternalActors__/BaseMap/9/FI/63G62XTSXABGOCRV3TE8AJ
+/Game/__ExternalActors__/BaseMap/4/JA/8QR0ABS7YV3FNCX9CKK2E3
+/Game/__ExternalActors__/BaseMap/7/CL/QOGMTTV704QXSN5IPW4EAZ
+/Game/__ExternalActors__/BaseMap/8/31/1F1Y209BWFIE2GFOC6GNE0
+/Game/__ExternalActors__/BaseMap/D/QY/FW7DXFEIA255LHH8WH9ANZ
+/Game/__ExternalActors__/BaseMap/9/XQ/KGQ7CBORYD0L0NDS4NT5CA
+/Game/__ExternalActors__/BaseMap/B/N5/9ZBI2FG16VS1UXY94LOSX8
+/Game/__ExternalActors__/BaseMap/C/6R/BO03HSOLQF1KSVF65N52JE
+/Game/__ExternalActors__/BaseMap/2/QI/9U7YDKYECB2996F9LHZV5M
+/Game/__ExternalActors__/BaseMap/A/R3/AP8HY240NMX8NELK1SJUYK
+/Game/__ExternalActors__/BaseMap/5/VI/TEYWWKVB1KGVPI2WRO3BNQ
+/Game/__ExternalActors__/BaseMap/D/3C/66FBQ19IEWI7M7C34BNHO5
+/Game/__ExternalActors__/BaseMap/5/ME/JLQYPI6CXU4RNOMDBNAWZA
+/Game/__ExternalActors__/BaseMap/1/BS/07SNOBPM1L9GSI8YPD2K3A
+/Game/__ExternalActors__/BaseMap/A/2T/6UD71UUU9QBWFSGWUVDIYS
+/Game/__ExternalActors__/BaseMap/8/37/NIYRZERNRUIYXE475B0HV7
+/Game/__ExternalActors__/BaseMap/D/4K/2ABTAAEHJMC8UNTTK5VV8Z
+/Game/__ExternalActors__/BaseMap/0/0G/FNM76HRRFAQBCSHUMC273K
+/Game/__ExternalActors__/BaseMap/E/OB/NNMT9D6U6SBJR9SMMFGWLT
+/Game/__ExternalActors__/BaseMap/6/XV/JLV5KY1HMRZLUJOS9VQ6MY
+/Game/__ExternalActors__/BaseMap/4/EG/P6J4ODDPM1MBP3XWX1WN9B
+/Game/__ExternalActors__/BaseMap/7/HI/CYTV73Y11DZ0Q7S3R8NVY0
+/Game/__ExternalActors__/BaseMap/E/IE/WK1282PKWQ08GPSIXKGC0L
+/Game/__ExternalActors__/BaseMap/A/2C/708RTHV4O5F091APAMO5IC
+/Game/__ExternalActors__/BaseMap/3/4R/Y79HRV0IZIDDNLGT27CUC9
+/Game/__ExternalActors__/BaseMap/0/ZL/L09Z0L5JXN7RDHMZ7EI9O2
+/Game/__ExternalActors__/BaseMap/3/XW/WVJBH92TIDG1NCVFE122F7
+/Game/__ExternalActors__/BaseMap/F/5L/CA498MPN2D2WF6KFPDT2TA
+/Game/__ExternalActors__/BaseMap/C/GH/7NN16PI4D5Y417BP9KNES5
+/Game/__ExternalActors__/BaseMap/2/7E/IUEJQEFOU9DFBF5QPTA7E9
+/Game/__ExternalActors__/BaseMap/0/R1/3ALW5JCT1Z5L32ZCBO0X9U
+/Game/__ExternalActors__/BaseMap/2/E6/QUR0ZVM9Z9P7EXC9RIXJ6Z
+/Game/__ExternalActors__/BaseMap/B/GS/YLDPAGYB8KGLFDFGI177SU
+/Game/__ExternalActors__/BaseMap/C/BT/T5RS9F1RRT7PIFBSH7NVTO
+/Game/__ExternalActors__/BaseMap/E/RH/D1JDSUPVS9ABWABMRYHVJ9
+/Game/__ExternalActors__/BaseMap/C/QI/7VWMXVSBB8YPOA72G3OB6M
+/Game/__ExternalActors__/BaseMap/3/BK/AG3T2M9522RMVV1UVBLQTR
+/Game/__ExternalActors__/BaseMap/2/CX/3ACEZXYD5CP9917XSTFVM9
+/Game/__ExternalActors__/BaseMap/8/T2/5MQ6WTTLBMXH9NJWTJ0CAM
+/Game/__ExternalActors__/BaseMap/1/JD/BPCH7NW9IIIY1B9OWG936Q
+[2024.03.05-13.53.54:055][407]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.03.05-13.53.54:055][407]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BaseMap_HLOD0_Instancing" FILE="../../../../../Projekte/GameJam/Game Jam 03-2024/GameJam03-2024/GameJam_03_2024/Content/BaseMap_HLOD0_Instancing.uasset" SILENT=true
+[2024.03.05-13.53.54:057][407]LogSavePackage: Moving output files for package: /Game/BaseMap_HLOD0_Instancing
+[2024.03.05-13.53.54:057][407]LogSavePackage: Moving '../../../../../Projekte/GameJam/Game Jam 03-2024/GameJam03-2024/GameJam_03_2024/Saved/BaseMap_HLOD0_InstancingF466407446045C5DB2E32788A2DD6381.tmp' to '../../../../../Projekte/GameJam/Game Jam 03-2024/GameJam03-2024/GameJam_03_2024/Content/BaseMap_HLOD0_Instancing.uasset'
+[2024.03.05-13.53.54:059][407]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/BaseMap/8/I9/S35KNNMBNEUES8QDE31UU8
+[2024.03.05-13.53.54:059][407]LogSavePackage: Moving '../../../../../Projekte/GameJam/Game Jam 03-2024/GameJam03-2024/GameJam_03_2024/Saved/S35KNNMBNEUES8QDE31UU80D9F109047284A4F004791810C49E1FE.tmp' to '../../../../../Projekte/GameJam/Game Jam 03-2024/GameJam03-2024/GameJam_03_2024/Content/__ExternalActors__/BaseMap/8/I9/S35KNNMBNEUES8QDE31UU8.uasset'
+[2024.03.05-13.53.54:062][407]LogSavePackage: Moving output files for package: /Game/__ExternalObjects__/BaseMap/1/D2/NSVM17YMA6LSJE7WSJTYN7
+[2024.03.05-13.53.54:062][407]LogSavePackage: Moving '../../../../../Projekte/GameJam/Game Jam 03-2024/GameJam03-2024/GameJam_03_2024/Saved/NSVM17YMA6LSJE7WSJTYN77AF1F44446B7F7D075069CADE72ABBB5.tmp' to '../../../../../Projekte/GameJam/Game Jam 03-2024/GameJam03-2024/GameJam_03_2024/Content/__ExternalObjects__/BaseMap/1/D2/NSVM17YMA6LSJE7WSJTYN7.uasset'
+[2024.03.05-13.53.54:064][407]LogSavePackage: Moving output files for package: /Game/__ExternalObjects__/BaseMap/D/9L/DHW0KAI5ULL2KLXHA59L7J
+[2024.03.05-13.53.54:064][407]LogSavePackage: Moving '../../../../../Projekte/GameJam/Game Jam 03-2024/GameJam03-2024/GameJam_03_2024/Saved/DHW0KAI5ULL2KLXHA59L7JD43531C54E63E5D16CFEE0ADF983F3FD.tmp' to '../../../../../Projekte/GameJam/Game Jam 03-2024/GameJam03-2024/GameJam_03_2024/Content/__ExternalObjects__/BaseMap/D/9L/DHW0KAI5ULL2KLXHA59L7J.uasset'
+[2024.03.05-13.53.54:066][407]LogSavePackage: Moving output files for package: /Game/__ExternalObjects__/BaseMap/C/9W/D2I3QZR289MSPPVEKGC472
+[2024.03.05-13.53.54:066][407]LogSavePackage: Moving '../../../../../Projekte/GameJam/Game Jam 03-2024/GameJam03-2024/GameJam_03_2024/Saved/D2I3QZR289MSPPVEKGC4720FC75C2A4D5D2DC51D5128B20D4E652F.tmp' to '../../../../../Projekte/GameJam/Game Jam 03-2024/GameJam03-2024/GameJam_03_2024/Content/__ExternalObjects__/BaseMap/C/9W/D2I3QZR289MSPPVEKGC472.uasset'
+[2024.03.05-13.53.54:069][407]LogSavePackage: Moving output files for package: /Game/__ExternalObjects__/BaseMap/8/T2/PNBW5CKEJPWQD475NORYHD
+[2024.03.05-13.53.54:069][407]LogSavePackage: Moving '../../../../../Projekte/GameJam/Game Jam 03-2024/GameJam03-2024/GameJam_03_2024/Saved/PNBW5CKEJPWQD475NORYHD93E682624FBAE8E8CCDCDCB2ECB03E2D.tmp' to '../../../../../Projekte/GameJam/Game Jam 03-2024/GameJam03-2024/GameJam_03_2024/Content/__ExternalObjects__/BaseMap/8/T2/PNBW5CKEJPWQD475NORYHD.uasset'
+[2024.03.05-13.53.54:071][407]LogSavePackage: Moving output files for package: /Game/__ExternalObjects__/BaseMap/2/OE/B7AGEZYBGQB7PVJSD0SMQV
+[2024.03.05-13.53.54:071][407]LogSavePackage: Moving '../../../../../Projekte/GameJam/Game Jam 03-2024/GameJam03-2024/GameJam_03_2024/Saved/B7AGEZYBGQB7PVJSD0SMQVE9B8698A4D5B52FA55A57BB3C2803E5D.tmp' to '../../../../../Projekte/GameJam/Game Jam 03-2024/GameJam03-2024/GameJam_03_2024/Content/__ExternalObjects__/BaseMap/2/OE/B7AGEZYBGQB7PVJSD0SMQV.uasset'
+[2024.03.05-13.53.54:073][407]LogSavePackage: Moving output files for package: /Game/__ExternalObjects__/BaseMap/C/3X/WVEKM363PBR4L0PQ8JKR6X
+[2024.03.05-13.53.54:073][407]LogSavePackage: Moving '../../../../../Projekte/GameJam/Game Jam 03-2024/GameJam03-2024/GameJam_03_2024/Saved/WVEKM363PBR4L0PQ8JKR6XB9135263426CC262F357CFB66C8E8618.tmp' to '../../../../../Projekte/GameJam/Game Jam 03-2024/GameJam03-2024/GameJam_03_2024/Content/__ExternalObjects__/BaseMap/C/3X/WVEKM363PBR4L0PQ8JKR6X.uasset'
+[2024.03.05-13.53.54:095][407]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/BaseMap/7/7T/5NOX6SOFS58A0NZBUSRRI4
+[2024.03.05-13.53.54:095][407]LogSavePackage: Moving '../../../../../Projekte/GameJam/Game Jam 03-2024/GameJam03-2024/GameJam_03_2024/Saved/5NOX6SOFS58A0NZBUSRRI47B5644A6403D35C4129D8A88CD0A4A2B.tmp' to '../../../../../Projekte/GameJam/Game Jam 03-2024/GameJam03-2024/GameJam_03_2024/Content/__ExternalActors__/BaseMap/7/7T/5NOX6SOFS58A0NZBUSRRI4.uasset'
+[2024.03.05-13.53.54:099][407]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/BaseMap/2/OU/VGUVH1DBZL7Z3HOYB0MCOS
+[2024.03.05-13.53.54:099][407]LogSavePackage: Moving '../../../../../Projekte/GameJam/Game Jam 03-2024/GameJam03-2024/GameJam_03_2024/Saved/VGUVH1DBZL7Z3HOYB0MCOS1201CA3C46DEDDE87565589B29E76139.tmp' to '../../../../../Projekte/GameJam/Game Jam 03-2024/GameJam03-2024/GameJam_03_2024/Content/__ExternalActors__/BaseMap/2/OU/VGUVH1DBZL7Z3HOYB0MCOS.uasset'
+[2024.03.05-13.53.54:101][407]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/BaseMap/D/7I/63H8XBWTJ78AN5UWTMPUAZ
+[2024.03.05-13.53.54:101][407]LogSavePackage: Moving '../../../../../Projekte/GameJam/Game Jam 03-2024/GameJam03-2024/GameJam_03_2024/Saved/63H8XBWTJ78AN5UWTMPUAZBD0D605647F569FE36C12BBD3299B23F.tmp' to '../../../../../Projekte/GameJam/Game Jam 03-2024/GameJam03-2024/GameJam_03_2024/Content/__ExternalActors__/BaseMap/D/7I/63H8XBWTJ78AN5UWTMPUAZ.uasset'
+[2024.03.05-13.53.54:104][407]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/BaseMap/6/YS/1Q71GL8MXWYLWCF8C0QKZ5
+[2024.03.05-13.53.54:104][407]LogSavePackage: Moving '../../../../../Projekte/GameJam/Game Jam 03-2024/GameJam03-2024/GameJam_03_2024/Saved/1Q71GL8MXWYLWCF8C0QKZ5511F0D03411F13762A6C1AB412671B50.tmp' to '../../../../../Projekte/GameJam/Game Jam 03-2024/GameJam03-2024/GameJam_03_2024/Content/__ExternalActors__/BaseMap/6/YS/1Q71GL8MXWYLWCF8C0QKZ5.uasset'
+[2024.03.05-13.53.54:107][407]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/BaseMap/9/TR/3ADL6XRMLCXAYM28EW3O08
+[2024.03.05-13.53.54:107][407]LogSavePackage: Moving '../../../../../Projekte/GameJam/Game Jam 03-2024/GameJam03-2024/GameJam_03_2024/Saved/3ADL6XRMLCXAYM28EW3O084D5C91EB464C30356C076783A9CDD471.tmp' to '../../../../../Projekte/GameJam/Game Jam 03-2024/GameJam03-2024/GameJam_03_2024/Content/__ExternalActors__/BaseMap/9/TR/3ADL6XRMLCXAYM28EW3O08.uasset'
+[2024.03.05-13.53.54:109][407]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/BaseMap/9/92/5AJPTEG0ITNNVYGEV07Y6O
+[2024.03.05-13.53.54:109][407]LogSavePackage: Moving '../../../../../Projekte/GameJam/Game Jam 03-2024/GameJam03-2024/GameJam_03_2024/Saved/5AJPTEG0ITNNVYGEV07Y6O7A2B5D204F1DA666442A838AE0C54B98.tmp' to '../../../../../Projekte/GameJam/Game Jam 03-2024/GameJam03-2024/GameJam_03_2024/Content/__ExternalActors__/BaseMap/9/92/5AJPTEG0ITNNVYGEV07Y6O.uasset'
+[2024.03.05-13.53.54:112][407]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/BaseMap/2/PH/1A1KP1OS577IFFOF58UL6L
+[2024.03.05-13.53.54:112][407]LogSavePackage: Moving '../../../../../Projekte/GameJam/Game Jam 03-2024/GameJam03-2024/GameJam_03_2024/Saved/1A1KP1OS577IFFOF58UL6L4E2AAF6C472025F869BB6A9E43625D76.tmp' to '../../../../../Projekte/GameJam/Game Jam 03-2024/GameJam03-2024/GameJam_03_2024/Content/__ExternalActors__/BaseMap/2/PH/1A1KP1OS577IFFOF58UL6L.uasset'
+[2024.03.05-13.53.54:115][407]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/BaseMap/5/WZ/BHK4Q5QK61Y19TVQXNGUKG
+[2024.03.05-13.53.54:115][407]LogSavePackage: Moving '../../../../../Projekte/GameJam/Game Jam 03-2024/GameJam03-2024/GameJam_03_2024/Saved/BHK4Q5QK61Y19TVQXNGUKGBCAD6083440BE7C7EF4CEBA32EE75C28.tmp' to '../../../../../Projekte/GameJam/Game Jam 03-2024/GameJam03-2024/GameJam_03_2024/Content/__ExternalActors__/BaseMap/5/WZ/BHK4Q5QK61Y19TVQXNGUKG.uasset'
+[2024.03.05-13.53.54:126][407]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/BaseMap/C/CK/BW74RCBTAKRM8ILW2LCXNM
+[2024.03.05-13.53.54:126][407]LogSavePackage: Moving '../../../../../Projekte/GameJam/Game Jam 03-2024/GameJam03-2024/GameJam_03_2024/Saved/BW74RCBTAKRM8ILW2LCXNM8A9C0A9F4DDF2907D64BC3B8E4AD58D8.tmp' to '../../../../../Projekte/GameJam/Game Jam 03-2024/GameJam03-2024/GameJam_03_2024/Content/__ExternalActors__/BaseMap/C/CK/BW74RCBTAKRM8ILW2LCXNM.uasset'
+[2024.03.05-13.53.54:133][407]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/BaseMap/1/U5/4Y8K412OZN0J514YK7RJ4R
+[2024.03.05-13.53.54:133][407]LogSavePackage: Moving '../../../../../Projekte/GameJam/Game Jam 03-2024/GameJam03-2024/GameJam_03_2024/Saved/4Y8K412OZN0J514YK7RJ4R30F2DDE146A278F03360F68731B0C853.tmp' to '../../../../../Projekte/GameJam/Game Jam 03-2024/GameJam03-2024/GameJam_03_2024/Content/__ExternalActors__/BaseMap/1/U5/4Y8K412OZN0J514YK7RJ4R.uasset'
+[2024.03.05-13.53.54:141][407]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/BaseMap/0/FZ/AQBM2K1BSLK52Y81J6KKET
+[2024.03.05-13.53.54:141][407]LogSavePackage: Moving '../../../../../Projekte/GameJam/Game Jam 03-2024/GameJam03-2024/GameJam_03_2024/Saved/AQBM2K1BSLK52Y81J6KKET97CDB88D428A0E09ACFFD6BE4C0643A2.tmp' to '../../../../../Projekte/GameJam/Game Jam 03-2024/GameJam03-2024/GameJam_03_2024/Content/__ExternalActors__/BaseMap/0/FZ/AQBM2K1BSLK52Y81J6KKET.uasset'
+[2024.03.05-13.53.54:158][407]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/BaseMap/5/WX/6K8CX1560KJQOJ4PQFRI0T
+[2024.03.05-13.53.54:158][407]LogSavePackage: Moving '../../../../../Projekte/GameJam/Game Jam 03-2024/GameJam03-2024/GameJam_03_2024/Saved/6K8CX1560KJQOJ4PQFRI0T4675138042E7FAD03C4C5181D8A62A9F.tmp' to '../../../../../Projekte/GameJam/Game Jam 03-2024/GameJam03-2024/GameJam_03_2024/Content/__ExternalActors__/BaseMap/5/WX/6K8CX1560KJQOJ4PQFRI0T.uasset'
+[2024.03.05-13.53.54:169][407]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/BaseMap/D/6U/XTPTGCQKMRFTP174PUR3Y6
+[2024.03.05-13.53.54:169][407]LogSavePackage: Moving '../../../../../Projekte/GameJam/Game Jam 03-2024/GameJam03-2024/GameJam_03_2024/Saved/XTPTGCQKMRFTP174PUR3Y6A0D2123A4435989B5EEB4F84BA1B3D2D.tmp' to '../../../../../Projekte/GameJam/Game Jam 03-2024/GameJam03-2024/GameJam_03_2024/Content/__ExternalActors__/BaseMap/D/6U/XTPTGCQKMRFTP174PUR3Y6.uasset'
+[2024.03.05-13.53.54:177][407]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/BaseMap/C/X1/U5LOKJ5QH8T3Z1ZYY2MBNM
+[2024.03.05-13.53.54:177][407]LogSavePackage: Moving '../../../../../Projekte/GameJam/Game Jam 03-2024/GameJam03-2024/GameJam_03_2024/Saved/U5LOKJ5QH8T3Z1ZYY2MBNM83701A06439D867B8739F78C7687E3DE.tmp' to '../../../../../Projekte/GameJam/Game Jam 03-2024/GameJam03-2024/GameJam_03_2024/Content/__ExternalActors__/BaseMap/C/X1/U5LOKJ5QH8T3Z1ZYY2MBNM.uasset'
+[2024.03.05-13.53.54:184][407]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/BaseMap/B/5Q/QNGYJS5DBOQ3288XBR7ZTL
+[2024.03.05-13.53.54:184][407]LogSavePackage: Moving '../../../../../Projekte/GameJam/Game Jam 03-2024/GameJam03-2024/GameJam_03_2024/Saved/QNGYJS5DBOQ3288XBR7ZTLBECCE3F74A98CAE2AD3FFBBF3CFE53C0.tmp' to '../../../../../Projekte/GameJam/Game Jam 03-2024/GameJam03-2024/GameJam_03_2024/Content/__ExternalActors__/BaseMap/B/5Q/QNGYJS5DBOQ3288XBR7ZTL.uasset'
+[2024.03.05-13.53.54:192][407]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/BaseMap/7/FW/D2T8F181C13GD4FU6M8A2F
+[2024.03.05-13.53.54:192][407]LogSavePackage: Moving '../../../../../Projekte/GameJam/Game Jam 03-2024/GameJam03-2024/GameJam_03_2024/Saved/D2T8F181C13GD4FU6M8A2F6A2090394FB06DA6E16198B25433F4B1.tmp' to '../../../../../Projekte/GameJam/Game Jam 03-2024/GameJam03-2024/GameJam_03_2024/Content/__ExternalActors__/BaseMap/7/FW/D2T8F181C13GD4FU6M8A2F.uasset'
+[2024.03.05-13.53.54:203][407]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/BaseMap/6/QY/QDSI478DY8EFI1IQ1TAC8D
+[2024.03.05-13.53.54:203][407]LogSavePackage: Moving '../../../../../Projekte/GameJam/Game Jam 03-2024/GameJam03-2024/GameJam_03_2024/Saved/QDSI478DY8EFI1IQ1TAC8DE2D3557941DD7A07577326A9E93AD1C7.tmp' to '../../../../../Projekte/GameJam/Game Jam 03-2024/GameJam03-2024/GameJam_03_2024/Content/__ExternalActors__/BaseMap/6/QY/QDSI478DY8EFI1IQ1TAC8D.uasset'
+[2024.03.05-13.53.54:211][407]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/BaseMap/9/FI/63G62XTSXABGOCRV3TE8AJ
+[2024.03.05-13.53.54:211][407]LogSavePackage: Moving '../../../../../Projekte/GameJam/Game Jam 03-2024/GameJam03-2024/GameJam_03_2024/Saved/63G62XTSXABGOCRV3TE8AJ64120A81402377470C6C6899A246ABFD.tmp' to '../../../../../Projekte/GameJam/Game Jam 03-2024/GameJam03-2024/GameJam_03_2024/Content/__ExternalActors__/BaseMap/9/FI/63G62XTSXABGOCRV3TE8AJ.uasset'
+[2024.03.05-13.53.54:222][407]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/BaseMap/4/JA/8QR0ABS7YV3FNCX9CKK2E3
+[2024.03.05-13.53.54:222][407]LogSavePackage: Moving '../../../../../Projekte/GameJam/Game Jam 03-2024/GameJam03-2024/GameJam_03_2024/Saved/8QR0ABS7YV3FNCX9CKK2E35AD1134B40311B3D96653793E2DF3992.tmp' to '../../../../../Projekte/GameJam/Game Jam 03-2024/GameJam03-2024/GameJam_03_2024/Content/__ExternalActors__/BaseMap/4/JA/8QR0ABS7YV3FNCX9CKK2E3.uasset'
+[2024.03.05-13.53.54:233][407]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/BaseMap/7/CL/QOGMTTV704QXSN5IPW4EAZ
+[2024.03.05-13.53.54:233][407]LogSavePackage: Moving '../../../../../Projekte/GameJam/Game Jam 03-2024/GameJam03-2024/GameJam_03_2024/Saved/QOGMTTV704QXSN5IPW4EAZADE4763549A92F2FC1A509901A34347B.tmp' to '../../../../../Projekte/GameJam/Game Jam 03-2024/GameJam03-2024/GameJam_03_2024/Content/__ExternalActors__/BaseMap/7/CL/QOGMTTV704QXSN5IPW4EAZ.uasset'
+[2024.03.05-13.53.54:241][407]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/BaseMap/8/31/1F1Y209BWFIE2GFOC6GNE0
+[2024.03.05-13.53.54:241][407]LogSavePackage: Moving '../../../../../Projekte/GameJam/Game Jam 03-2024/GameJam03-2024/GameJam_03_2024/Saved/1F1Y209BWFIE2GFOC6GNE00DA249974608E302B3371085096D8DF5.tmp' to '../../../../../Projekte/GameJam/Game Jam 03-2024/GameJam03-2024/GameJam_03_2024/Content/__ExternalActors__/BaseMap/8/31/1F1Y209BWFIE2GFOC6GNE0.uasset'
+[2024.03.05-13.53.54:248][407]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/BaseMap/D/QY/FW7DXFEIA255LHH8WH9ANZ
+[2024.03.05-13.53.54:248][407]LogSavePackage: Moving '../../../../../Projekte/GameJam/Game Jam 03-2024/GameJam03-2024/GameJam_03_2024/Saved/FW7DXFEIA255LHH8WH9ANZ090A286F4065BC2917755B94AB28A086.tmp' to '../../../../../Projekte/GameJam/Game Jam 03-2024/GameJam03-2024/GameJam_03_2024/Content/__ExternalActors__/BaseMap/D/QY/FW7DXFEIA255LHH8WH9ANZ.uasset'
+[2024.03.05-13.53.54:256][407]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/BaseMap/9/XQ/KGQ7CBORYD0L0NDS4NT5CA
+[2024.03.05-13.53.54:256][407]LogSavePackage: Moving '../../../../../Projekte/GameJam/Game Jam 03-2024/GameJam03-2024/GameJam_03_2024/Saved/KGQ7CBORYD0L0NDS4NT5CAC6A1474F4A18E2A7B2F1D9A0A3B40605.tmp' to '../../../../../Projekte/GameJam/Game Jam 03-2024/GameJam03-2024/GameJam_03_2024/Content/__ExternalActors__/BaseMap/9/XQ/KGQ7CBORYD0L0NDS4NT5CA.uasset'
+[2024.03.05-13.53.54:263][407]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/BaseMap/B/N5/9ZBI2FG16VS1UXY94LOSX8
+[2024.03.05-13.53.54:263][407]LogSavePackage: Moving '../../../../../Projekte/GameJam/Game Jam 03-2024/GameJam03-2024/GameJam_03_2024/Saved/9ZBI2FG16VS1UXY94LOSX897F55B4646D6A2C0294BA7B3A241BE3F.tmp' to '../../../../../Projekte/GameJam/Game Jam 03-2024/GameJam03-2024/GameJam_03_2024/Content/__ExternalActors__/BaseMap/B/N5/9ZBI2FG16VS1UXY94LOSX8.uasset'
+[2024.03.05-13.53.54:286][407]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/BaseMap/C/6R/BO03HSOLQF1KSVF65N52JE
+[2024.03.05-13.53.54:286][407]LogSavePackage: Moving '../../../../../Projekte/GameJam/Game Jam 03-2024/GameJam03-2024/GameJam_03_2024/Saved/BO03HSOLQF1KSVF65N52JEA5F4B42940B5414A67E754943A605561.tmp' to '../../../../../Projekte/GameJam/Game Jam 03-2024/GameJam03-2024/GameJam_03_2024/Content/__ExternalActors__/BaseMap/C/6R/BO03HSOLQF1KSVF65N52JE.uasset'
+[2024.03.05-13.53.54:294][407]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/BaseMap/2/QI/9U7YDKYECB2996F9LHZV5M
+[2024.03.05-13.53.54:294][407]LogSavePackage: Moving '../../../../../Projekte/GameJam/Game Jam 03-2024/GameJam03-2024/GameJam_03_2024/Saved/9U7YDKYECB2996F9LHZV5MD38521AC412E5B13B047749F9FD29428.tmp' to '../../../../../Projekte/GameJam/Game Jam 03-2024/GameJam03-2024/GameJam_03_2024/Content/__ExternalActors__/BaseMap/2/QI/9U7YDKYECB2996F9LHZV5M.uasset'
+[2024.03.05-13.53.54:302][407]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/BaseMap/A/R3/AP8HY240NMX8NELK1SJUYK
+[2024.03.05-13.53.54:302][407]LogSavePackage: Moving '../../../../../Projekte/GameJam/Game Jam 03-2024/GameJam03-2024/GameJam_03_2024/Saved/AP8HY240NMX8NELK1SJUYKD73096A84AA2BA1FBD89B193089D409F.tmp' to '../../../../../Projekte/GameJam/Game Jam 03-2024/GameJam03-2024/GameJam_03_2024/Content/__ExternalActors__/BaseMap/A/R3/AP8HY240NMX8NELK1SJUYK.uasset'
+[2024.03.05-13.53.54:309][407]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/BaseMap/5/VI/TEYWWKVB1KGVPI2WRO3BNQ
+[2024.03.05-13.53.54:309][407]LogSavePackage: Moving '../../../../../Projekte/GameJam/Game Jam 03-2024/GameJam03-2024/GameJam_03_2024/Saved/TEYWWKVB1KGVPI2WRO3BNQDDBB0C524FE76D129197718B8EB9AFD9.tmp' to '../../../../../Projekte/GameJam/Game Jam 03-2024/GameJam03-2024/GameJam_03_2024/Content/__ExternalActors__/BaseMap/5/VI/TEYWWKVB1KGVPI2WRO3BNQ.uasset'
+[2024.03.05-13.53.54:321][407]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/BaseMap/D/3C/66FBQ19IEWI7M7C34BNHO5
+[2024.03.05-13.53.54:321][407]LogSavePackage: Moving '../../../../../Projekte/GameJam/Game Jam 03-2024/GameJam03-2024/GameJam_03_2024/Saved/66FBQ19IEWI7M7C34BNHO53D92534843AD4DF82009A6AC41085229.tmp' to '../../../../../Projekte/GameJam/Game Jam 03-2024/GameJam03-2024/GameJam_03_2024/Content/__ExternalActors__/BaseMap/D/3C/66FBQ19IEWI7M7C34BNHO5.uasset'
+[2024.03.05-13.53.54:332][407]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/BaseMap/5/ME/JLQYPI6CXU4RNOMDBNAWZA
+[2024.03.05-13.53.54:332][407]LogSavePackage: Moving '../../../../../Projekte/GameJam/Game Jam 03-2024/GameJam03-2024/GameJam_03_2024/Saved/JLQYPI6CXU4RNOMDBNAWZA8E6E9F744DEDF92D642AF6B29FD7DE6F.tmp' to '../../../../../Projekte/GameJam/Game Jam 03-2024/GameJam03-2024/GameJam_03_2024/Content/__ExternalActors__/BaseMap/5/ME/JLQYPI6CXU4RNOMDBNAWZA.uasset'
+[2024.03.05-13.53.54:343][407]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/BaseMap/1/BS/07SNOBPM1L9GSI8YPD2K3A
+[2024.03.05-13.53.54:343][407]LogSavePackage: Moving '../../../../../Projekte/GameJam/Game Jam 03-2024/GameJam03-2024/GameJam_03_2024/Saved/07SNOBPM1L9GSI8YPD2K3A018E8C9B412D4A1EA1576C8644D1CF44.tmp' to '../../../../../Projekte/GameJam/Game Jam 03-2024/GameJam03-2024/GameJam_03_2024/Content/__ExternalActors__/BaseMap/1/BS/07SNOBPM1L9GSI8YPD2K3A.uasset'
+[2024.03.05-13.53.54:352][407]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/BaseMap/A/2T/6UD71UUU9QBWFSGWUVDIYS
+[2024.03.05-13.53.54:352][407]LogSavePackage: Moving '../../../../../Projekte/GameJam/Game Jam 03-2024/GameJam03-2024/GameJam_03_2024/Saved/6UD71UUU9QBWFSGWUVDIYSB3ABF055401BAC33A586579A7FDFA8AE.tmp' to '../../../../../Projekte/GameJam/Game Jam 03-2024/GameJam03-2024/GameJam_03_2024/Content/__ExternalActors__/BaseMap/A/2T/6UD71UUU9QBWFSGWUVDIYS.uasset'
+[2024.03.05-13.53.54:360][407]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/BaseMap/8/37/NIYRZERNRUIYXE475B0HV7
+[2024.03.05-13.53.54:360][407]LogSavePackage: Moving '../../../../../Projekte/GameJam/Game Jam 03-2024/GameJam03-2024/GameJam_03_2024/Saved/NIYRZERNRUIYXE475B0HV76B5437FF444E6E8B2E26958B01EB112A.tmp' to '../../../../../Projekte/GameJam/Game Jam 03-2024/GameJam03-2024/GameJam_03_2024/Content/__ExternalActors__/BaseMap/8/37/NIYRZERNRUIYXE475B0HV7.uasset'
+[2024.03.05-13.53.54:368][407]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/BaseMap/D/4K/2ABTAAEHJMC8UNTTK5VV8Z
+[2024.03.05-13.53.54:368][407]LogSavePackage: Moving '../../../../../Projekte/GameJam/Game Jam 03-2024/GameJam03-2024/GameJam_03_2024/Saved/2ABTAAEHJMC8UNTTK5VV8Z51B303FA43EABC53369DCB86DFDA86A8.tmp' to '../../../../../Projekte/GameJam/Game Jam 03-2024/GameJam03-2024/GameJam_03_2024/Content/__ExternalActors__/BaseMap/D/4K/2ABTAAEHJMC8UNTTK5VV8Z.uasset'
+[2024.03.05-13.53.54:376][407]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/BaseMap/0/0G/FNM76HRRFAQBCSHUMC273K
+[2024.03.05-13.53.54:376][407]LogSavePackage: Moving '../../../../../Projekte/GameJam/Game Jam 03-2024/GameJam03-2024/GameJam_03_2024/Saved/FNM76HRRFAQBCSHUMC273K28E22746411D2885236A68BA17F8E3B1.tmp' to '../../../../../Projekte/GameJam/Game Jam 03-2024/GameJam03-2024/GameJam_03_2024/Content/__ExternalActors__/BaseMap/0/0G/FNM76HRRFAQBCSHUMC273K.uasset'
+[2024.03.05-13.53.54:383][407]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/BaseMap/E/OB/NNMT9D6U6SBJR9SMMFGWLT
+[2024.03.05-13.53.54:383][407]LogSavePackage: Moving '../../../../../Projekte/GameJam/Game Jam 03-2024/GameJam03-2024/GameJam_03_2024/Saved/NNMT9D6U6SBJR9SMMFGWLT059666FA48F49920B8A50E8C35B8D901.tmp' to '../../../../../Projekte/GameJam/Game Jam 03-2024/GameJam03-2024/GameJam_03_2024/Content/__ExternalActors__/BaseMap/E/OB/NNMT9D6U6SBJR9SMMFGWLT.uasset'
+[2024.03.05-13.53.54:391][407]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/BaseMap/6/XV/JLV5KY1HMRZLUJOS9VQ6MY
+[2024.03.05-13.53.54:391][407]LogSavePackage: Moving '../../../../../Projekte/GameJam/Game Jam 03-2024/GameJam03-2024/GameJam_03_2024/Saved/JLV5KY1HMRZLUJOS9VQ6MY6A0E67F241D213ECBD2F2A8F4E1AA075.tmp' to '../../../../../Projekte/GameJam/Game Jam 03-2024/GameJam03-2024/GameJam_03_2024/Content/__ExternalActors__/BaseMap/6/XV/JLV5KY1HMRZLUJOS9VQ6MY.uasset'
+[2024.03.05-13.53.54:398][407]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/BaseMap/4/EG/P6J4ODDPM1MBP3XWX1WN9B
+[2024.03.05-13.53.54:399][407]LogSavePackage: Moving '../../../../../Projekte/GameJam/Game Jam 03-2024/GameJam03-2024/GameJam_03_2024/Saved/P6J4ODDPM1MBP3XWX1WN9B1EA3C6E943655F66968E73B121156B7F.tmp' to '../../../../../Projekte/GameJam/Game Jam 03-2024/GameJam03-2024/GameJam_03_2024/Content/__ExternalActors__/BaseMap/4/EG/P6J4ODDPM1MBP3XWX1WN9B.uasset'
+[2024.03.05-13.53.54:406][407]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/BaseMap/7/HI/CYTV73Y11DZ0Q7S3R8NVY0
+[2024.03.05-13.53.54:406][407]LogSavePackage: Moving '../../../../../Projekte/GameJam/Game Jam 03-2024/GameJam03-2024/GameJam_03_2024/Saved/CYTV73Y11DZ0Q7S3R8NVY0774C09A94B1D92F4D8E453B5614605EC.tmp' to '../../../../../Projekte/GameJam/Game Jam 03-2024/GameJam03-2024/GameJam_03_2024/Content/__ExternalActors__/BaseMap/7/HI/CYTV73Y11DZ0Q7S3R8NVY0.uasset'
+[2024.03.05-13.53.54:413][407]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/BaseMap/E/IE/WK1282PKWQ08GPSIXKGC0L
+[2024.03.05-13.53.54:413][407]LogSavePackage: Moving '../../../../../Projekte/GameJam/Game Jam 03-2024/GameJam03-2024/GameJam_03_2024/Saved/WK1282PKWQ08GPSIXKGC0L2DF0F75441F4F5DF3CEAC3A48B283D3B.tmp' to '../../../../../Projekte/GameJam/Game Jam 03-2024/GameJam03-2024/GameJam_03_2024/Content/__ExternalActors__/BaseMap/E/IE/WK1282PKWQ08GPSIXKGC0L.uasset'
+[2024.03.05-13.53.54:421][407]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/BaseMap/A/2C/708RTHV4O5F091APAMO5IC
+[2024.03.05-13.53.54:421][407]LogSavePackage: Moving '../../../../../Projekte/GameJam/Game Jam 03-2024/GameJam03-2024/GameJam_03_2024/Saved/708RTHV4O5F091APAMO5ICA27236FF457FD02C7C3D08A47C1D6622.tmp' to '../../../../../Projekte/GameJam/Game Jam 03-2024/GameJam03-2024/GameJam_03_2024/Content/__ExternalActors__/BaseMap/A/2C/708RTHV4O5F091APAMO5IC.uasset'
+[2024.03.05-13.53.54:428][407]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/BaseMap/3/4R/Y79HRV0IZIDDNLGT27CUC9
+[2024.03.05-13.53.54:428][407]LogSavePackage: Moving '../../../../../Projekte/GameJam/Game Jam 03-2024/GameJam03-2024/GameJam_03_2024/Saved/Y79HRV0IZIDDNLGT27CUC9A995ACED47C109133FEA1B95DE78A548.tmp' to '../../../../../Projekte/GameJam/Game Jam 03-2024/GameJam03-2024/GameJam_03_2024/Content/__ExternalActors__/BaseMap/3/4R/Y79HRV0IZIDDNLGT27CUC9.uasset'
+[2024.03.05-13.53.54:436][407]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/BaseMap/0/ZL/L09Z0L5JXN7RDHMZ7EI9O2
+[2024.03.05-13.53.54:436][407]LogSavePackage: Moving '../../../../../Projekte/GameJam/Game Jam 03-2024/GameJam03-2024/GameJam_03_2024/Saved/L09Z0L5JXN7RDHMZ7EI9O2D26D6AA84598566A36FE49AF757D83B3.tmp' to '../../../../../Projekte/GameJam/Game Jam 03-2024/GameJam03-2024/GameJam_03_2024/Content/__ExternalActors__/BaseMap/0/ZL/L09Z0L5JXN7RDHMZ7EI9O2.uasset'
+[2024.03.05-13.53.54:443][407]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/BaseMap/3/XW/WVJBH92TIDG1NCVFE122F7
+[2024.03.05-13.53.54:443][407]LogSavePackage: Moving '../../../../../Projekte/GameJam/Game Jam 03-2024/GameJam03-2024/GameJam_03_2024/Saved/WVJBH92TIDG1NCVFE122F784A8D9354687F03C59F059BB87B5ADC9.tmp' to '../../../../../Projekte/GameJam/Game Jam 03-2024/GameJam03-2024/GameJam_03_2024/Content/__ExternalActors__/BaseMap/3/XW/WVJBH92TIDG1NCVFE122F7.uasset'
+[2024.03.05-13.53.54:456][407]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/BaseMap/F/5L/CA498MPN2D2WF6KFPDT2TA
+[2024.03.05-13.53.54:456][407]LogSavePackage: Moving '../../../../../Projekte/GameJam/Game Jam 03-2024/GameJam03-2024/GameJam_03_2024/Saved/CA498MPN2D2WF6KFPDT2TA7485D88247A8D0C30DAFE2B72AF9CD6B.tmp' to '../../../../../Projekte/GameJam/Game Jam 03-2024/GameJam03-2024/GameJam_03_2024/Content/__ExternalActors__/BaseMap/F/5L/CA498MPN2D2WF6KFPDT2TA.uasset'
+[2024.03.05-13.53.54:467][407]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/BaseMap/C/GH/7NN16PI4D5Y417BP9KNES5
+[2024.03.05-13.53.54:467][407]LogSavePackage: Moving '../../../../../Projekte/GameJam/Game Jam 03-2024/GameJam03-2024/GameJam_03_2024/Saved/7NN16PI4D5Y417BP9KNES597C8DF1A4A4231DFCEEB83BEF3DF5F32.tmp' to '../../../../../Projekte/GameJam/Game Jam 03-2024/GameJam03-2024/GameJam_03_2024/Content/__ExternalActors__/BaseMap/C/GH/7NN16PI4D5Y417BP9KNES5.uasset'
+[2024.03.05-13.53.54:480][407]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/BaseMap/2/7E/IUEJQEFOU9DFBF5QPTA7E9
+[2024.03.05-13.53.54:480][407]LogSavePackage: Moving '../../../../../Projekte/GameJam/Game Jam 03-2024/GameJam03-2024/GameJam_03_2024/Saved/IUEJQEFOU9DFBF5QPTA7E9D72922A143B63CB6258F65B46B49EFA2.tmp' to '../../../../../Projekte/GameJam/Game Jam 03-2024/GameJam03-2024/GameJam_03_2024/Content/__ExternalActors__/BaseMap/2/7E/IUEJQEFOU9DFBF5QPTA7E9.uasset'
+[2024.03.05-13.53.54:488][407]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/BaseMap/0/R1/3ALW5JCT1Z5L32ZCBO0X9U
+[2024.03.05-13.53.54:488][407]LogSavePackage: Moving '../../../../../Projekte/GameJam/Game Jam 03-2024/GameJam03-2024/GameJam_03_2024/Saved/3ALW5JCT1Z5L32ZCBO0X9UEAC24C5641C9D66117F6C88927AC3584.tmp' to '../../../../../Projekte/GameJam/Game Jam 03-2024/GameJam03-2024/GameJam_03_2024/Content/__ExternalActors__/BaseMap/0/R1/3ALW5JCT1Z5L32ZCBO0X9U.uasset'
+[2024.03.05-13.53.54:496][407]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/BaseMap/2/E6/QUR0ZVM9Z9P7EXC9RIXJ6Z
+[2024.03.05-13.53.54:496][407]LogSavePackage: Moving '../../../../../Projekte/GameJam/Game Jam 03-2024/GameJam03-2024/GameJam_03_2024/Saved/QUR0ZVM9Z9P7EXC9RIXJ6Z72F0BD3147BAFF89833152A1EF518403.tmp' to '../../../../../Projekte/GameJam/Game Jam 03-2024/GameJam03-2024/GameJam_03_2024/Content/__ExternalActors__/BaseMap/2/E6/QUR0ZVM9Z9P7EXC9RIXJ6Z.uasset'
+[2024.03.05-13.53.54:503][407]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/BaseMap/B/GS/YLDPAGYB8KGLFDFGI177SU
+[2024.03.05-13.53.54:503][407]LogSavePackage: Moving '../../../../../Projekte/GameJam/Game Jam 03-2024/GameJam03-2024/GameJam_03_2024/Saved/YLDPAGYB8KGLFDFGI177SU7348CE9C4803A59331B4FEBE9A4DD891.tmp' to '../../../../../Projekte/GameJam/Game Jam 03-2024/GameJam03-2024/GameJam_03_2024/Content/__ExternalActors__/BaseMap/B/GS/YLDPAGYB8KGLFDFGI177SU.uasset'
+[2024.03.05-13.53.54:514][407]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/BaseMap/C/BT/T5RS9F1RRT7PIFBSH7NVTO
+[2024.03.05-13.53.54:514][407]LogSavePackage: Moving '../../../../../Projekte/GameJam/Game Jam 03-2024/GameJam03-2024/GameJam_03_2024/Saved/T5RS9F1RRT7PIFBSH7NVTO27A34652414002B0327FD895E8A2C4B7.tmp' to '../../../../../Projekte/GameJam/Game Jam 03-2024/GameJam03-2024/GameJam_03_2024/Content/__ExternalActors__/BaseMap/C/BT/T5RS9F1RRT7PIFBSH7NVTO.uasset'
+[2024.03.05-13.53.54:522][407]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/BaseMap/E/RH/D1JDSUPVS9ABWABMRYHVJ9
+[2024.03.05-13.53.54:522][407]LogSavePackage: Moving '../../../../../Projekte/GameJam/Game Jam 03-2024/GameJam03-2024/GameJam_03_2024/Saved/D1JDSUPVS9ABWABMRYHVJ9A6FA72C24D554920F8E7BBB0B319A0EC.tmp' to '../../../../../Projekte/GameJam/Game Jam 03-2024/GameJam03-2024/GameJam_03_2024/Content/__ExternalActors__/BaseMap/E/RH/D1JDSUPVS9ABWABMRYHVJ9.uasset'
+[2024.03.05-13.53.54:529][407]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/BaseMap/C/QI/7VWMXVSBB8YPOA72G3OB6M
+[2024.03.05-13.53.54:529][407]LogSavePackage: Moving '../../../../../Projekte/GameJam/Game Jam 03-2024/GameJam03-2024/GameJam_03_2024/Saved/7VWMXVSBB8YPOA72G3OB6M3299DE944944049CD6C77283D7471290.tmp' to '../../../../../Projekte/GameJam/Game Jam 03-2024/GameJam03-2024/GameJam_03_2024/Content/__ExternalActors__/BaseMap/C/QI/7VWMXVSBB8YPOA72G3OB6M.uasset'
+[2024.03.05-13.53.54:536][407]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/BaseMap/3/BK/AG3T2M9522RMVV1UVBLQTR
+[2024.03.05-13.53.54:537][407]LogSavePackage: Moving '../../../../../Projekte/GameJam/Game Jam 03-2024/GameJam03-2024/GameJam_03_2024/Saved/AG3T2M9522RMVV1UVBLQTR1617444942912D157F8E44BF1BDACD81.tmp' to '../../../../../Projekte/GameJam/Game Jam 03-2024/GameJam03-2024/GameJam_03_2024/Content/__ExternalActors__/BaseMap/3/BK/AG3T2M9522RMVV1UVBLQTR.uasset'
+[2024.03.05-13.53.54:544][407]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/BaseMap/2/CX/3ACEZXYD5CP9917XSTFVM9
+[2024.03.05-13.53.54:544][407]LogSavePackage: Moving '../../../../../Projekte/GameJam/Game Jam 03-2024/GameJam03-2024/GameJam_03_2024/Saved/3ACEZXYD5CP9917XSTFVM95BC9D35B42023A1B571AA9B2AED9909E.tmp' to '../../../../../Projekte/GameJam/Game Jam 03-2024/GameJam03-2024/GameJam_03_2024/Content/__ExternalActors__/BaseMap/2/CX/3ACEZXYD5CP9917XSTFVM9.uasset'
+[2024.03.05-13.53.54:554][407]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/BaseMap/8/T2/5MQ6WTTLBMXH9NJWTJ0CAM
+[2024.03.05-13.53.54:554][407]LogSavePackage: Moving '../../../../../Projekte/GameJam/Game Jam 03-2024/GameJam03-2024/GameJam_03_2024/Saved/5MQ6WTTLBMXH9NJWTJ0CAM3D056EC443C596477B65069FED767011.tmp' to '../../../../../Projekte/GameJam/Game Jam 03-2024/GameJam03-2024/GameJam_03_2024/Content/__ExternalActors__/BaseMap/8/T2/5MQ6WTTLBMXH9NJWTJ0CAM.uasset'
+[2024.03.05-13.53.54:561][407]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/BaseMap/1/JD/BPCH7NW9IIIY1B9OWG936Q
+[2024.03.05-13.53.54:562][407]LogSavePackage: Moving '../../../../../Projekte/GameJam/Game Jam 03-2024/GameJam03-2024/GameJam_03_2024/Saved/BPCH7NW9IIIY1B9OWG936Q21A1563E4E56AEBCF0BBD7A282ACA06A.tmp' to '../../../../../Projekte/GameJam/Game Jam 03-2024/GameJam03-2024/GameJam_03_2024/Content/__ExternalActors__/BaseMap/1/JD/BPCH7NW9IIIY1B9OWG936Q.uasset'
+[2024.03.05-13.53.54:564][407]LogFileHelpers: InternalPromptForCheckoutAndSave took 509 ms (total: 1.01 sec)
+[2024.03.05-13.53.54:565][407]Message dialog closed, result: Ok, title: Unable to Check Out From Revision Control!, text: The following assets could not be successfully checked out from revision control:
+/Game/BaseMap_HLOD0_Instancing
+/Game/__ExternalActors__/BaseMap/8/I9/S35KNNMBNEUES8QDE31UU8
+/Game/__ExternalObjects__/BaseMap/1/D2/NSVM17YMA6LSJE7WSJTYN7
+/Game/__ExternalObjects__/BaseMap/D/9L/DHW0KAI5ULL2KLXHA59L7J
+/Game/__ExternalObjects__/BaseMap/C/9W/D2I3QZR289MSPPVEKGC472
+/Game/__ExternalObjects__/BaseMap/8/T2/PNBW5CKEJPWQD475NORYHD
+/Game/__ExternalObjects__/BaseMap/2/OE/B7AGEZYBGQB7PVJSD0SMQV
+/Game/__ExternalObjects__/BaseMap/C/3X/WVEKM363PBR4L0PQ8JKR6X
+/Game/__ExternalActors__/BaseMap/7/7T/5NOX6SOFS58A0NZBUSRRI4
+/Game/__ExternalActors__/BaseMap/2/OU/VGUVH1DBZL7Z3HOYB0MCOS
+/Game/__ExternalActors__/BaseMap/D/7I/63H8XBWTJ78AN5UWTMPUAZ
+/Game/__ExternalActors__/BaseMap/6/YS/1Q71GL8MXWYLWCF8C0QKZ5
+/Game/__ExternalActors__/BaseMap/9/TR/3ADL6XRMLCXAYM28EW3O08
+/Game/__ExternalActors__/BaseMap/9/92/5AJPTEG0ITNNVYGEV07Y6O
+/Game/__ExternalActors__/BaseMap/2/PH/1A1KP1OS577IFFOF58UL6L
+/Game/__ExternalActors__/BaseMap/5/WZ/BHK4Q5QK61Y19TVQXNGUKG
+/Game/__ExternalActors__/BaseMap/C/CK/BW74RCBTAKRM8ILW2LCXNM
+/Game/__ExternalActors__/BaseMap/1/U5/4Y8K412OZN0J514YK7RJ4R
+/Game/__ExternalActors__/BaseMap/0/FZ/AQBM2K1BSLK52Y81J6KKET
+/Game/__ExternalActors__/BaseMap/5/WX/6K8CX1560KJQOJ4PQFRI0T
+/Game/__ExternalActors__/BaseMap/D/6U/XTPTGCQKMRFTP174PUR3Y6
+/Game/__ExternalActors__/BaseMap/C/X1/U5LOKJ5QH8T3Z1ZYY2MBNM
+/Game/__ExternalActors__/BaseMap/B/5Q/QNGYJS5DBOQ3288XBR7ZTL
+/Game/__ExternalActors__/BaseMap/7/FW/D2T8F181C13GD4FU6M8A2F
+/Game/__ExternalActors__/BaseMap/6/QY/QDSI478DY8EFI1IQ1TAC8D
+/Game/__ExternalActors__/BaseMap/9/FI/63G62XTSXABGOCRV3TE8AJ
+/Game/__ExternalActors__/BaseMap/4/JA/8QR0ABS7YV3FNCX9CKK2E3
+/Game/__ExternalActors__/BaseMap/7/CL/QOGMTTV704QXSN5IPW4EAZ
+/Game/__ExternalActors__/BaseMap/8/31/1F1Y209BWFIE2GFOC6GNE0
+/Game/__ExternalActors__/BaseMap/D/QY/FW7DXFEIA255LHH8WH9ANZ
+/Game/__ExternalActors__/BaseMap/9/XQ/KGQ7CBORYD0L0NDS4NT5CA
+/Game/__ExternalActors__/BaseMap/B/N5/9ZBI2FG16VS1UXY94LOSX8
+/Game/__ExternalActors__/BaseMap/C/6R/BO03HSOLQF1KSVF65N52JE
+/Game/__ExternalActors__/BaseMap/2/QI/9U7YDKYECB2996F9LHZV5M
+/Game/__ExternalActors__/BaseMap/A/R3/AP8HY240NMX8NELK1SJUYK
+/Game/__ExternalActors__/BaseMap/5/VI/TEYWWKVB1KGVPI2WRO3BNQ
+/Game/__ExternalActors__/BaseMap/D/3C/66FBQ19IEWI7M7C34BNHO5
+/Game/__ExternalActors__/BaseMap/5/ME/JLQYPI6CXU4RNOMDBNAWZA
+/Game/__ExternalActors__/BaseMap/1/BS/07SNOBPM1L9GSI8YPD2K3A
+/Game/__ExternalActors__/BaseMap/A/2T/6UD71UUU9QBWFSGWUVDIYS
+/Game/__ExternalActors__/BaseMap/8/37/NIYRZERNRUIYXE475B0HV7
+/Game/__ExternalActors__/BaseMap/D/4K/2ABTAAEHJMC8UNTTK5VV8Z
+/Game/__ExternalActors__/BaseMap/0/0G/FNM76HRRFAQBCSHUMC273K
+/Game/__ExternalActors__/BaseMap/E/OB/NNMT9D6U6SBJR9SMMFGWLT
+/Game/__ExternalActors__/BaseMap/6/XV/JLV5KY1HMRZLUJOS9VQ6MY
+/Game/__ExternalActors__/BaseMap/4/EG/P6J4ODDPM1MBP3XWX1WN9B
+/Game/__ExternalActors__/BaseMap/7/HI/CYTV73Y11DZ0Q7S3R8NVY0
+/Game/__ExternalActors__/BaseMap/E/IE/WK1282PKWQ08GPSIXKGC0L
+/Game/__ExternalActors__/BaseMap/A/2C/708RTHV4O5F091APAMO5IC
+/Game/__ExternalActors__/BaseMap/3/4R/Y79HRV0IZIDDNLGT27CUC9
+/Game/__ExternalActors__/BaseMap/0/ZL/L09Z0L5JXN7RDHMZ7EI9O2
+/Game/__ExternalActors__/BaseMap/3/XW/WVJBH92TIDG1NCVFE122F7
+/Game/__ExternalActors__/BaseMap/F/5L/CA498MPN2D2WF6KFPDT2TA
+/Game/__ExternalActors__/BaseMap/C/GH/7NN16PI4D5Y417BP9KNES5
+/Game/__ExternalActors__/BaseMap/2/7E/IUEJQEFOU9DFBF5QPTA7E9
+/Game/__ExternalActors__/BaseMap/0/R1/3ALW5JCT1Z5L32ZCBO0X9U
+/Game/__ExternalActors__/BaseMap/2/E6/QUR0ZVM9Z9P7EXC9RIXJ6Z
+/Game/__ExternalActors__/BaseMap/B/GS/YLDPAGYB8KGLFDFGI177SU
+/Game/__ExternalActors__/BaseMap/C/BT/T5RS9F1RRT7PIFBSH7NVTO
+/Game/__ExternalActors__/BaseMap/E/RH/D1JDSUPVS9ABWABMRYHVJ9
+/Game/__ExternalActors__/BaseMap/C/QI/7VWMXVSBB8YPOA72G3OB6M
+/Game/__ExternalActors__/BaseMap/3/BK/AG3T2M9522RMVV1UVBLQTR
+/Game/__ExternalActors__/BaseMap/2/CX/3ACEZXYD5CP9917XSTFVM9
+/Game/__ExternalActors__/BaseMap/8/T2/5MQ6WTTLBMXH9NJWTJ0CAM
+/Game/__ExternalActors__/BaseMap/1/JD/BPCH7NW9IIIY1B9OWG936Q
+[2024.03.05-13.53.54:577][407]LogFileHelpers: Saving map 'BaseMap' took 0.687
+[2024.03.05-13.53.54:577][407]Cmd: MAP LOAD FILE="../../../../../Projekte/GameJam/Game Jam 03-2024/GameJam03-2024/GameJam_03_2024/Content/BaseMap.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=4
+[2024.03.05-13.53.54:577][407]LightingResults: New page: Lighting Build
+[2024.03.05-13.53.54:578][407]LoadErrors: New page: Loading map: BaseMap.umap
+[2024.03.05-13.53.54:593][407]LogWorld: UWorld::CleanupWorld for BaseMap, bSessionEnded=true, bCleanupResources=true
+[2024.03.05-13.53.54:593][407]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.03.05-13.53.54:597][407]LogContentBundle: [BaseMap(Standalone)] Deleting container.
+[2024.03.05-13.53.54:597][407]MapCheck: New page: Map Check
+[2024.03.05-13.53.54:597][407]LightingResults: New page: Lighting Build
+[2024.03.05-13.53.54:602][407]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2024.03.05-13.53.54:613][407]LogUObjectHash: Compacting FUObjectHashTables data took   0.53ms
+[2024.03.05-13.53.54:619][407]LogAudio: Display: Audio Device (ID: 1) registered with world 'BaseMap'.
+[2024.03.05-13.53.54:619][407]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.03.05-13.53.54:619][407]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.03.05-13.53.54:620][407]LogAIModule: Creating AISystem for world BaseMap
+[2024.03.05-13.53.54:620][407]LogWorldPartition: ULevel::OnLevelLoaded(BaseMap)(bIsOwningWorldGameWorld=0, bIsOwningWorldPartitioned=1, InitializeForMainWorld=1, InitializeForEditor=1, InitializeForGame=0)
+[2024.03.05-13.53.54:620][407]LogWorldPartition: Display: WorldPartition initialize started...
+[2024.03.05-13.53.54:620][407]LogWorldPartition: UWorldPartition::Initialize : World = BaseMap, World Type = Editor, IsMainWorldPartition = 1, Location = V(0), Rotation = R(0), IsEditor = 1, IsGame = 0, IsPIEWorldTravel = 0, IsCooking = 0
+[2024.03.05-13.53.54:626][407]LogContentBundle: [BaseMap(Standalone)] Creating new contrainer.
+[2024.03.05-13.53.54:626][407]LogWorldPartition: Display: WorldPartition initialize took 5 ms (total: 507 ms)
+[2024.03.05-13.53.54:634][407]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2024.03.05-13.53.54:638][407]LogUObjectHash: Compacting FUObjectHashTables data took   0.42ms
+[2024.03.05-13.53.54:642][407]Cmd: MAP CHECKDEP NOCLEARLOG
+[2024.03.05-13.53.54:643][407]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0,343ms to complete.
+[2024.03.05-13.53.54:650][407]AssetCheck: New page: Asset Save: multiple assets
+[2024.03.05-13.53.54:650][407]LogContentValidation: Display: Validating /Script/Engine.World /Game/BaseMap.BaseMap
+[2024.03.05-13.53.54:650][407]LogContentValidation: Display: Validating /Script/Engine.HLODLayer /Game/BaseMap_HLOD0_Instancing.BaseMap_HLOD0_Instancing
+[2024.03.05-13.53.54:650][407]LogContentValidation: Display: Validating /Script/Engine.WorldDataLayers /Game/BaseMap.BaseMap:PersistentLevel.WorldDataLayers
+[2024.03.05-13.53.54:650][407]LogContentValidation: Display: Validating /Script/Engine.ActorFolder /Game/BaseMap.BaseMap:PersistentLevel.ActorFolder_UID_B7E9BD5B-45A65265-4791988D-EF54CCEB
+[2024.03.05-13.53.54:650][407]LogContentValidation: Display: Validating /Script/Engine.ActorFolder /Game/BaseMap.BaseMap:PersistentLevel.ActorFolder_UID_26DBD2B7-434D115B-68D5CB88-82E789AF
+[2024.03.05-13.53.54:650][407]LogContentValidation: Display: Validating /Script/Engine.ActorFolder /Game/BaseMap.BaseMap:PersistentLevel.ActorFolder_UID_069B7288-4681824D-D41E3894-8B3951F3
+[2024.03.05-13.53.54:650][407]LogContentValidation: Display: Validating /Script/Engine.ActorFolder /Game/BaseMap.BaseMap:PersistentLevel.ActorFolder_UID_C11A5F59-487C0DB2-AA58CABA-5DEDB377
+[2024.03.05-13.53.54:650][407]LogContentValidation: Display: Validating /Script/Engine.ActorFolder /Game/BaseMap.BaseMap:PersistentLevel.ActorFolder_UID_F0B34F1C-498F52BA-314B94B2-A472577C
+[2024.03.05-13.53.54:650][407]LogContentValidation: Display: Validating /Script/Engine.ActorFolder /Game/BaseMap.BaseMap:PersistentLevel.ActorFolder_UID_5D23A82E-411A5CFD-F61C6285-B0703174
+[2024.03.05-13.53.54:650][407]LogContentValidation: Display: Validating /Script/Engine.WorldPartitionMiniMap /Game/BaseMap.BaseMap:PersistentLevel.WorldPartitionMiniMap_UAID_3497F631D5890DD300_1296925927
+[2024.03.05-13.53.54:650][407]LogContentValidation: Display: Validating /Script/Engine.DirectionalLight /Game/BaseMap.BaseMap:PersistentLevel.DirectionalLight_UAID_A85E45CFE40401D200_1470382761
+[2024.03.05-13.53.54:650][407]LogContentValidation: Display: Validating /Script/Engine.StaticMeshActor /Game/BaseMap.BaseMap:PersistentLevel.StaticMeshActor_UAID_A4AE111137DC54FB00_1240666663
+[2024.03.05-13.53.54:650][407]LogContentValidation: Display: Validating /Script/Engine.SkyAtmosphere /Game/BaseMap.BaseMap:PersistentLevel.SkyAtmosphere_UAID_A85E45CFE40401D200_1470382762
+[2024.03.05-13.53.54:650][407]LogContentValidation: Display: Validating /Script/Engine.SkyLight /Game/BaseMap.BaseMap:PersistentLevel.SkyLight_UAID_A85E45CFE40401D200_1470380759
+[2024.03.05-13.53.54:650][407]LogContentValidation: Display: Validating /Script/Engine.ExponentialHeightFog /Game/BaseMap.BaseMap:PersistentLevel.ExponentialHeightFog_UAID_A85E45CFE40401D200_1470382763
+[2024.03.05-13.53.54:650][407]LogContentValidation: Display: Validating /Script/Engine.VolumetricCloud /Game/BaseMap.BaseMap:PersistentLevel.VolumetricCloud_UAID_A85E45CFE40401D200_1470381760
+[2024.03.05-13.53.54:650][407]LogContentValidation: Display: Validating /Script/Landscape.Landscape /Game/BaseMap.BaseMap:PersistentLevel.Landscape_UAID_A85E45CFE404FBD100_1221515703
