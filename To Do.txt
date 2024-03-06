@@ -1,0 +1,14 @@
+TO DO 
+
+ALLGEMEIN --------------------------------------------------------------------------------------------------------------------------------------
+[] Steuerung erweitern --> nicht nur 90 Grad Kurven ermöglichen
+[] Gehweg neben Straßen
+------------------------------------------------------------------------------------------------------------------------------------------------
+KARO -------------------------------------------------------------------------------------------------------------------------------------------
+[] Werte für Car-Movement anpassen --> sodass Auto gut auf Straße fahren kann (Lerpwerte und Dauer in Timeline) --> wenn Map fertig
+[] Controls für Car-Movement anpassen
+[x] Interaktion mit Postkasten
+[x] Post aufnehmen
+[] UI? (ausgelieferte Post anzeigen/Postkasten umfärben/...)
+
+------------------------------------------------------------------------------------------------------------------------------------------------
