@@ -3,12 +3,17 @@ TO DO
 ALLGEMEIN --------------------------------------------------------------------------------------------------------------------------------------
 [] Steuerung erweitern --> nicht nur 90 Grad Kurven ermöglichen
 [] Gehweg neben Straßen
+[] Post an bestimmte Briefkästen liefern --> jeder Brief hat eigene Zieladresse
+[] Randomizen der Briefkästen/Zieladressen
+[] Umfärben der Briefkästen nach ausgelieferter Post
+[] Tankstelle --> Postauto muss zwischendurch tanken, um Lieferungen ausführen zu können
+[] Tankanzeige + Logik für Tank
 ------------------------------------------------------------------------------------------------------------------------------------------------
 KARO -------------------------------------------------------------------------------------------------------------------------------------------
 [] Werte für Car-Movement anpassen --> sodass Auto gut auf Straße fahren kann (Lerpwerte und Dauer in Timeline) --> wenn Map fertig
 [] Controls für Car-Movement anpassen
 [x] Interaktion mit Postkasten
 [x] Post aufnehmen
-[] UI? (ausgelieferte Post anzeigen/Postkasten umfärben/...)
+[x] UI? (ausgelieferte Post anzeigen/Postkasten umfärben/...)
 
 ------------------------------------------------------------------------------------------------------------------------------------------------
