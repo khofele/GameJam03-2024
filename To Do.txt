@@ -8,12 +8,14 @@ ALLGEMEIN ----------------------------------------------------------------------
 [] Umfärben der Briefkästen nach ausgelieferter Post
 [] Tankstelle --> Postauto muss zwischendurch tanken, um Lieferungen ausführen zu können
 [] Tankanzeige + Logik für Tank
+
 ------------------------------------------------------------------------------------------------------------------------------------------------
 KARO -------------------------------------------------------------------------------------------------------------------------------------------
 [] Werte für Car-Movement anpassen --> sodass Auto gut auf Straße fahren kann (Lerpwerte und Dauer in Timeline) --> wenn Map fertig
-[] Controls für Car-Movement anpassen
+[x] Controls für Car-Movement anpassen
 [x] Interaktion mit Postkasten
 [x] Post aufnehmen
 [x] UI? (ausgelieferte Post anzeigen/Postkasten umfärben/...)
+[in Progress] Auto soll sterben können --> Objekte bekommen Environment Tag --> Overlap Check + Actor-Tag Check --> ggf. sterben --> Game Running = false
 
 ------------------------------------------------------------------------------------------------------------------------------------------------
