@@ -8,6 +8,10 @@ ALLGEMEIN ----------------------------------------------------------------------
 [] Umfärben der Briefkästen nach ausgelieferter Post
 [] Tankstelle --> Postauto muss zwischendurch tanken, um Lieferungen ausführen zu können
 [] Tankanzeige + Logik für Tank
+[] Modus: E-Modus (Paketdienst) immer nur an Poststelle tanken und mit einer Ladung auskommen
+[] Modus: Tank-Modus (Paketdienst) man kann nur an Tankstelle in Mitte tanken, man fängt mit halbem/fast leeren/etc. Tank an
+[] Modus: Essen ausliefern, wenn Essen kalt explodiert das Auto
+[] Modus: Amazon Prime mit Lieferuhrzeit, wenn man zu spät kommt wird man gefeuert 
 
 ------------------------------------------------------------------------------------------------------------------------------------------------
 KARO -------------------------------------------------------------------------------------------------------------------------------------------
